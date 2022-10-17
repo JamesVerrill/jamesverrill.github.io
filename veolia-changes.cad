@@ -11,5 +11,5 @@ Sync-Config-8: report5.filter.lookuprecord.includelist=mbus.dib.energy.0.0.0.0,m
 Sync-Config-9: report5.filter.lookuprecord.enabled=true
 Sync-Config-10: report5.http.template=3110
 Sync-Config-11: report5.http.authmode=basic
-Sync-Config-12: report5.http.url=http://api2100.meterpoint.io/intgrations/elvaco/veolia-sheffield
+Sync-Config-12: report5.http.url=http://api2100.meterpoint.io/integrations/elvaco/veolia-sheffield
 Sync-Config-13: report5.enabled=true
