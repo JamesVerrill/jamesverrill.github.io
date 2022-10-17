@@ -1,7 +1,7 @@
 Sync-Mode: server
 Sync-Command-0: set storevalue.cron=*/5 * * * *
-Sync-Command-1: set report1.filter.value=*/30 * * * 
-Sync-Command-2: set report1.cron=13 3 * * *
+Sync-Command-1: set report1.filter.value=*/30 * * * *
+Sync-Command-2: set report1.cron=13 3 * * * 
 Sync-Command-3: set reboot.cron=53 4 * * *
 Sync-Command-4: set report5.cron=*/5 * * * *
 Sync-Command-5: set report5.filter.value=* * * * *
