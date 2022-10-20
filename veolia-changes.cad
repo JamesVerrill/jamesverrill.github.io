@@ -13,3 +13,4 @@ Sync-Config-10: report5.http.template=3110
 Sync-Config-11: report5.http.authmode=basic
 Sync-Config-12: report5.http.url=http://api2100.meterpoint.io/integrations/elvaco/veolia-sheffield
 Sync-Config-13: report5.enabled=true
+Sync-Config-14: report5.http.enabled=true
